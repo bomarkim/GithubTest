@@ -52,6 +52,7 @@ public class ItemDetailFragment extends Fragment {
                 appBarLayout.setTitle(mItem.content);
             }
         }
+
     }
 
     @Override
